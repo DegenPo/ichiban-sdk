@@ -1,5 +1,5 @@
 {
-  "name": "@sushiswap/core-sdk",
+  "name": "@ichibanswap/core-sdk",
   "version": "1.0.0-canary.138",
   "license": "MIT",
   "main": "dist/index.js",
@@ -9,7 +9,7 @@
   ],
   "module": "dist/core-sdk.esm.js",
   "repository": {
-    "url": "sushiswap/sdk",
+    "url": "ichibanswap/sdk",
     "directory": "packages/core-sdk"
   },
   "publishConfig": {
